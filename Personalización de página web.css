@@ -1,0 +1,63 @@
+h1
+{
+	font-family: Arial;
+	color: white;
+	font-size: 50px;
+}
+
+
+body
+{
+	background-color: rgb(174, 74, 255);
+	font-family: Arial;
+	color: white;
+	margin: 10px;
+}
+
+
+.msc li
+{
+	list-style: disc;
+	margin: 20px;
+}
+
+.qwe li
+{
+	list-style: circle;
+}
+
+table
+{
+	background-color: rgb(243, 243, 243);
+	color: black;
+	margin: auto;
+}
+
+td
+{
+	padding: 10px;
+}
+
+.image
+{
+	width:320px;
+	height: 300px;
+}
+
+.opp
+{
+	float: right;
+	padding: 0px;
+}
+
+
+.maq
+{
+	font-size: 25px;
+}
+
+.put
+{
+	font-size: 25px;
+	float: right;
+}

@@ -1,0 +1,40 @@
+h1
+{
+	font-family: Arial;
+	color: white;
+	font-size: 50px;
+}
+
+
+body
+{
+	background-color: rgb(174, 74, 255);
+	font-family: Arial;
+	color: white;
+	margin: 10px;
+}
+
+
+table
+{
+	background-color: rgb(243, 243, 243);
+	color: black;
+	margin: auto;
+}
+
+.opp
+{
+	float: right;
+	margin-left: 20px;
+}
+
+.maq
+{
+	font-size: 25px;
+}
+
+.put
+{
+	font-size: 25px;
+	float: right;
+}
